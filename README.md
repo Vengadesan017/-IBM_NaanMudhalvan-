@@ -1,4 +1,9 @@
 # -IBM_NaanMudhalvan-
+    Project Title: Chatbot with Watson
+
+
+Problem Definition: The project involves creating a chatbot using IBM Cloud Watson Assistant. The goal is to develop a virtual guide that assists users on messaging platforms like Facebook Messenger and Slack. The chatbot should provide helpful information, answer frequently asked questions (FAQs), and offer a friendly conversational experience. The project includes designing the chatbot's persona, configuring responses, integrating with messaging platforms, and ensuring a seamless user experience.
+
 Project Steps
 
 Phase 1: Problem Definition and Design Thinking
