@@ -15,6 +15,8 @@
 - [Updating Content](#updating-content)
 - [Dependencies](#dependencies)
 - [Support and Contact](#support-and-contact)
+- [Chat Bot Link](Chat-Bot-Link)
+- [Deploying the Chatbot on Facebook Messenger](#Deploying-the-Chatbot-on-Facebook-Messenger:)
 
 ## Overview
 This README provides guidance on navigating and updating the chatbot deployment project. The chatbot is designed to assist users on messaging platforms like Facebook Messenger and Slack, providing helpful information, answering frequently asked questions, and offering a friendly conversational experience. This guide covers essential information for users and developers involved in maintaining the chatbot.
@@ -70,12 +72,12 @@ If you encounter any issues or have questions, please contact us at [support@exa
 
 This README serves as a comprehensive guide for using, updating, and maintaining the chatbot deployment project. It provides essential information for both users and developers involved in the project.
 
-# Chat Bot Link: 
+## Chat Bot Link 
 
 https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-7a001cfb-0c4b-48b4-ae6f-d41923bf8966%3A%3A1d2b8eab-bd80-42cf-bd75-1c058eb9ab26&integrationID=2dcb25b2-0a79-4d75-acbb-0595cddcb57e&region=au-syd&serviceInstanceID=7a001cfb-0c4b-48b4-ae6f-d41923bf8966 
 
 
-# Deploying the Chatbot on Facebook Messenger:
+## Deploying the Chatbot on Facebook Messenger
 
 1. **Create a Facebook App:**
    - Go to the Facebook Developers Portal (https://developers.facebook.com/).
